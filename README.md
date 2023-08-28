@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solidcunno&label=Profile%20views&color=0e75b6&style=flat" alt="solidcunno" /> </p>
 
-- 🔭 I’m currently working on **Learn Linux Terminal**
+- 🔭 I’m currently working on **Doing Python and C Projects**
 
 - 🌱 I’m currently learning **Frameworks, Courses and College**
 
-- 👯 I’m looking to collaborate on **Pentesting Projects**
+- 👯 I’m looking to collaborate on **Codings**
 
-- 🤝 I’m looking for help with **Linux Terminal and Pentesting and Cyber Seciruty**
+- 🤝 I’m looking for help with **Cyber security and Codings tips**
 
 - 📫 How to reach me **solidsunno@gmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/diogeneshijo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diogeneshijo" height="30" width="40" /></a>
+<a href="https://instagram.com/diogeneshijo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="queigabe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
